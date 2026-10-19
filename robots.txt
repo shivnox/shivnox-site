@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://shivnox.co/sitemap.xml
